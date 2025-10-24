@@ -1,7 +1,7 @@
 Olá👋Eu sou a Lara Helk 
 
 
-- 🔭 Trabalho com Análise de Negócios no MS
+- 🔭 Analista de Negócios no MS
 - 👯 Colaborando com e-SUS APS
 - 🤔 Ajuda com tudo ligado a tecnologia 
 - 💬 Pergunte-me o que desejar 
