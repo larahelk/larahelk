@@ -9,8 +9,9 @@ Olá👋Eu sou a Lara Helk
 - ⚡ eu prefiro ler livros que já li!
 
  </div>
-  <a href="https://instagram.com/larettah" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
   <a href = "mailto:contatolarascanferla@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lara-helk-souza-2340aa35" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <um href="https://instagram.com/larettah" alvo="_em branco"><imagem fonte="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alvo="_em branco"</></texto ilegível>um>
   
 </div>
